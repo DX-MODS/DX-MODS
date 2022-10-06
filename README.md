@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **WhatsApp Bot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RIPPER-SER](https://github.com/RIPPER-SER)
+- 👨‍💻 All of my projects are available at [https://github.com/ZIYAN-SER](https://github.com/ZIYAN-SER)
 
 - 📝 I regularly write articles on [https://ripperser](https://ripperser)
 
